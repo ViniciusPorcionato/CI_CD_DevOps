@@ -11,7 +11,7 @@ jobs:
         uses: actions/setup-python@v6.2.0
 
       - name: Obter o código (checkout)
-        uses: action/checkout@v4
+        uses: actions/checkout@v4
 
       - name: Executar o programa
         run: |
