@@ -16,4 +16,4 @@ jobs:
       - name: Executar o programa
         run: |
           pwd
-          app.py     
+          python app.py     
